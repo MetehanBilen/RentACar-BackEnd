@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "0c6ScTXB1xn41OjXvIV4+qaq1m/DkbiMygGT84otJbQ=",
+  "Source": "WebAPI",
+  "BasePath": "_content/WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebAPI\\wwwroot",
+      "Source": "WebAPI",
+      "ContentRoot": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\DefultImages.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "DefultImages.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\DefultImages.jpg"
+    },
+    {
+      "Identity": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg"
+    },
+    {
+      "Identity": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\ae91885f-85c7-48f9-9dcb-709ea6accf4a.jpg",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "Uploads/Images/ae91885f-85c7-48f9-9dcb-709ea6accf4a.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\Images\\ae91885f-85c7-48f9-9dcb-709ea6accf4a.jpg"
+    }
+  ]
+}

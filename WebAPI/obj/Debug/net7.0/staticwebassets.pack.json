@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\DefultImages.jpg",
+      "PackagePath": "staticwebassets\\DefultImages.jpg"
+    },
+    {
+      "Id": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\220263ed-0cd7-4ee8-bdc2-4e2ab836964a.jpg"
+    },
+    {
+      "Id": "E:\\VS_Studio\\ReCapProject\\WebAPI\\wwwroot\\Uploads\\Images\\ae91885f-85c7-48f9-9dcb-709ea6accf4a.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\Images\\ae91885f-85c7-48f9-9dcb-709ea6accf4a.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebAPI.props",
+      "PackagePath": "build\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebAPI.props",
+      "PackagePath": "buildTransitive\\WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
