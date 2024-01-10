@@ -1,0 +1,11 @@
+﻿
+++ Manager return Mesajlar
+
+
+- Validation Rules
+
+- GetByUser -> CustomerManager
+
+- Business Rules
+
+- WebAPI Controller
