@@ -1,0 +1,17 @@
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.dll
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.dll
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\Entities.pdb
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.dll
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+E:\VS_Studio\ReCapProject\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\Core.dll
+E:\VS_Studio\ReCapProject\DataAccess\bin\Debug\net7.0\Core.pdb
